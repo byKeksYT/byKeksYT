@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java & PHP**
 
-- 📫 How to reach me **community@verstandlxs.de**
+- 📫 How to reach me **[E-Mail](mailto:community@bykeksyt.eu)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
