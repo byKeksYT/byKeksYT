@@ -13,3 +13,6 @@
 <a href="https://discord.gg/9JxpsyaAvS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9JxpsyaAvS" height="30" width="40" /></a>
 </p>
 
+### My current status
+[![Discord Presence](https://lanyard.cnrad.dev/api/290092509885890581)](https://discord.com/users/290092509885890581)
+
