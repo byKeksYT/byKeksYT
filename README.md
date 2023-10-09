@@ -14,5 +14,5 @@
 </p>
 
 ### My current status
-[!(https://lanyard.cnrad.dev/api/290092509885890581)](https://discord.com/users/290092509885890581)
+[![Discord Presence](https://lanyard.cnrad.dev/api/290092509885890581)](https://discord.com/users/290092509885890581)
 
