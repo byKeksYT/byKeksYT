@@ -14,5 +14,4 @@
 </p>
 
 ### My current status
-[![Discord Presence](https://lanyard.cnrad.dev/api/290092509885890581)](https://discord.com/users/290092509885890581)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/290092509885890581)](https://discord.com/users/290092509885890581) [[https://spotify-github-profile.vercel.app/api/view.svg?uid=letscookieeyt&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=letscookieeyt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
