@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Java & PHP**
 
-- 📫 How to reach me **[E-Mail](mailto:community@bykeksyt.eu)**
+- 📫 How to reach me: **[E-Mail](mailto:community@verstandlxs.de)**
+
+- 💻 My current project: **[Flentex.de](https://github.com/Flentex)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
